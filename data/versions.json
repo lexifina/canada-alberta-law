@@ -1,0 +1,771 @@
+{
+ "country": "CA-AB",
+ "acts": [
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of Alberta bills given Royal Assent (title, bill number, assent date and chapter only)",
+   "url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+   "versions": [
+    {
+     "from": "2001-05-31",
+     "units": 22,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2001-11-29",
+     "units": 38,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2002-03-14",
+     "units": 40,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2002-03-20",
+     "units": 43,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2002-05-14",
+     "units": 69,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2002-05-21",
+     "units": 70,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2002-12-04",
+     "units": 80,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2003-03-10",
+     "units": 83,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2003-03-27",
+     "units": 88,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2003-04-09",
+     "units": 92,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2003-05-16",
+     "units": 121,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2003-12-04",
+     "units": 142,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2004-03-11",
+     "units": 157,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2004-03-30",
+     "units": 166,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2004-05-11",
+     "units": 179,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2004-05-19",
+     "units": 184,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2005-03-24",
+     "units": 188,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2005-05-10",
+     "units": 211,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2005-06-02",
+     "units": 229,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2005-12-01",
+     "units": 248,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2006-03-16",
+     "units": 250,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2006-03-23",
+     "units": 259,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2006-05-24",
+     "units": 293,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2006-09-08",
+     "units": 294,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2007-03-23",
+     "units": 296,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2007-04-20",
+     "units": 306,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2007-06-01",
+     "units": 308,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2007-06-14",
+     "units": 315,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2007-06-19",
+     "units": 322,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2007-12-07",
+     "units": 351,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2008-05-15",
+     "units": 354,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2008-06-03",
+     "units": 361,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2008-06-09",
+     "units": 364,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2008-11-04",
+     "units": 383,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2008-12-02",
+     "units": 404,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2008-12-04",
+     "units": 406,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2009-03-23",
+     "units": 408,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2009-04-20",
+     "units": 415,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2009-05-26",
+     "units": 423,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2009-06-04",
+     "units": 456,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2009-11-26",
+     "units": 473,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2010-03-01",
+     "units": 474,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2010-03-25",
+     "units": 481,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2010-04-22",
+     "units": 493,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2010-12-02",
+     "units": 506,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2011-03-14",
+     "units": 507,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2011-03-18",
+     "units": 510,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2011-04-29",
+     "units": 514,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2011-05-13",
+     "units": 529,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2011-12-01",
+     "units": 531,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2011-12-08",
+     "units": 537,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2012-03-05",
+     "units": 539,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2012-03-21",
+     "units": 544,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2012-12-10",
+     "units": 554,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2013-03-21",
+     "units": 556,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2013-04-29",
+     "units": 561,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2013-05-27",
+     "units": 574,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2013-11-07",
+     "units": 576,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2013-12-11",
+     "units": 595,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2014-03-13",
+     "units": 599,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2014-04-24",
+     "units": 603,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2014-05-14",
+     "units": 607,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2014-12-17",
+     "units": 618,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2015-03-19",
+     "units": 621,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2015-03-30",
+     "units": 633,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2015-06-29",
+     "units": 636,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2015-11-27",
+     "units": 637,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2015-12-11",
+     "units": 650,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2016-03-23",
+     "units": 652,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2016-05-27",
+     "units": 670,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2016-06-13",
+     "units": 674,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 684,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2016-12-14",
+     "units": 689,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2017-03-30",
+     "units": 692,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2017-05-04",
+     "units": 699,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2017-06-07",
+     "units": 711,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 730,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 732,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2018-05-14",
+     "units": 733,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2018-05-18",
+     "units": 734,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2018-06-11",
+     "units": 748,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2018-11-19",
+     "units": 751,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2018-12-11",
+     "units": 763,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-06-04",
+     "units": 764,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-06-28",
+     "units": 773,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-07-18",
+     "units": 777,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-10-30",
+     "units": 783,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-11-22",
+     "units": 786,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-11-26",
+     "units": 787,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2019-12-05",
+     "units": 794,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-03-20",
+     "units": 797,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-04-02",
+     "units": 800,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-05-12",
+     "units": 804,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 807,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 816,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-07-23",
+     "units": 826,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-07-29",
+     "units": 829,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 846,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2021-03-26",
+     "units": 850,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2021-04-22",
+     "units": 855,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2021-05-27",
+     "units": 856,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2021-06-17",
+     "units": 872,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2021-12-02",
+     "units": 883,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 888,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 892,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 897,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 900,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 913,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2022-12-15",
+     "units": 921,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2023-03-28",
+     "units": 927,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 937,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2024-03-28",
+     "units": 940,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2024-05-16",
+     "units": 948,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 955,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 968,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2025-03-27",
+     "units": 971,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2025-05-15",
+     "units": 990,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2025-10-28",
+     "units": 991,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2025-11-26",
+     "units": 994,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2025-12-11",
+     "units": 1004,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2026-03-26",
+     "units": 1008,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2026-04-16",
+     "units": 1011,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    },
+    {
+     "from": "2026-05-14",
+     "units": 1025,
+     "source_url": "https://www.assembly.ab.ca/assembly-business/bills/bills-by-legislature",
+     "sha256": "b7c791ad8747fa0f2231f8280176aa83e70338b15e20e5103255a500732376dd"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Alberta: legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q1951",
+   "versions": [
+    {
+     "from": "1905-09-01",
+     "units": 1,
+     "source_url": "https://www.wikidata.org/wiki/Q1951",
+     "sha256": "wikidata-entity-Q1951"
+    },
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://www.wikidata.org/wiki/Q1951",
+     "sha256": "wikidata-entity-Q1951"
+    }
+   ]
+  }
+ ]
+}
